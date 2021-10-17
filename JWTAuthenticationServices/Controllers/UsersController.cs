@@ -1,5 +1,7 @@
 ﻿using System;
 using JWTAuthenticationServices.Authorization;
+using JWTAuthenticationServices.Model.Users;
+using JWTAuthenticationServices.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
